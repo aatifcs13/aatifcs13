@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I’m Aatif Arsalan (CoderBoy) living in Bhagalpur.</h1>
 <h3 align="center">A passionate designer and Front-end web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aatifcs13&label=Profile%20views&color=0e75b6&style=flat" alt="aatifcs13" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aatifcs13" alt="aatifcs13" /></a> </p>
 
