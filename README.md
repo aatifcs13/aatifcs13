@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+[![An image of @aatifcs13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aatifcs13)](https://holopin.io/@aatifcs13)
+
 - 👨‍💻 All of my projects are available at [https://aatif-arsalan.netlify.app/](https://aatif-arsalan.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
