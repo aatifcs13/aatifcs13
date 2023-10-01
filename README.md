@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I’m Aatif Arsalan (CoderBoy) living in Bhagalpur.</h1>
 <h3 align="center">A passionate designer and Front-end web developer</h3>
 
-[![An image of @aatifcs13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aatifcs13)](https://holopin.io/@aatifcs13)
+[![An image of @aatifcs13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aatifcs13)](https://holopin.io/@aatifcs13) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatifcs13&label=Profile%20views&color=0e75b6&style=flat" alt="aatifcs13" /> </p>
 
