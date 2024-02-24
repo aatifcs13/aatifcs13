@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://aatif-arsalan.netlify.app/](https://aatif-arsalan.netlify.app/)
+- 👨‍💻 All of my projects are available at https://aatif-arsalan.neocities.org/ [https://aatif-arsalan.netlify.app/](https://aatif-arsalan.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
